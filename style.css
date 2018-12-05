@@ -1,0 +1,40 @@
+.navbar{
+    font-weight: 400;
+}
+.tb_header{
+    background:black;
+    height: 5%;
+    color:white;
+}
+.tov{
+  padding: 5px;
+  padding: 5px;
+}
+.tov:hover{
+  background: darkcyan;
+ 
+}
+.tov_last:hover{
+  background: darkcyan;
+ 
+}
+.tb_img{
+  text-align: center;
+  align-content: center;
+  height: 200px;
+}
+.tb_body{
+  text-align: center;
+}
+.tov_name{
+  font-weight: bold;
+}
+.foter{
+  text-align: center;
+  background:black;
+}
+.tov_img{
+    width: 100%;
+    height: auto;
+    border: 1px;
+}
